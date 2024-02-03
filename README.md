@@ -27,6 +27,9 @@ Obruč koša neće biti fiksiran u mestu, već će inercija lopte uticati na nje
 <p>Mirko Đukić (SV32/2022) biće zadužen za implementaciju kontakata pri ograničenom kretanju i unapred definisano ograničeno kretanje.</p>
 <p>Interfejs i grafički prikaz će biti zajednički implementiran.</p>
 Literatura
-Kolizije u igrama: https://studiofreya.com/3d-math-and-physics/collision-detection-in-practice/ 
-Kinematika u igrama: http://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics
-Kolizija kruga: https://www.jeffreythompson.org/collision-detection/poly-circle.php
+Kolizije u igrama: https://studiofreya.com/3d-math-and-physics/collision-detection-in-practice/ <br>
+Kinematika u igrama: http://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics <br>
+Kolizija kruga: https://www.jeffreythompson.org/collision-detection/poly-circle.php <br>
+Rešavanje kolizija u igrama: https://www.chrishecker.com/images/e/e7/Gdmphys3.pdf <br>
+Ograničeno kretanje u igrama: https://www.toptal.com/game/video-game-physics-part-iii-constrained-rigid-body-simulation <br>
+Rad sa pygame bibliotekom: https://www.pygame.org/wiki/tutorials <br>
