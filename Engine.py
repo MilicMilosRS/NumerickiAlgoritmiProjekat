@@ -252,7 +252,6 @@ class GameEngine(object):
             else:
                 if b._falling_through_hoop:
                     self._score += 1
-                    print(self._score)
                 b._falling_through_hoop = False
 
     def tick(self, mousePos: np.array):
